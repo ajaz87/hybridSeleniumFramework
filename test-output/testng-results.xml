@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-07T15:40:08 IST" name="Default suite" finished-at="2021-06-07T15:40:27 IST" duration-ms="18310">
+  <suite started-at="2021-06-13T09:20:16 IST" name="Default suite" finished-at="2021-06-13T09:21:02 IST" duration-ms="46836">
     <groups>
     </groups>
-    <test started-at="2021-06-07T15:40:08 IST" name="Default test" finished-at="2021-06-07T15:40:27 IST" duration-ms="18310">
+    <test started-at="2021-06-13T09:20:16 IST" name="Default test" finished-at="2021-06-13T09:21:02 IST" duration-ms="46836">
       <class name="scripts.Addthecoursetocart">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:scripts.Addthecoursetocart@79da8dc5]" started-at="2021-06-07T15:40:08 IST" name="openApp" finished-at="2021-06-07T15:40:16 IST" duration-ms="7535" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:scripts.Addthecoursetocart@79da8dc5]" started-at="2021-06-13T09:20:16 IST" name="openApp" finished-at="2021-06-13T09:20:38 IST" duration-ms="22157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="addtocart()[pri:0, instance:scripts.Addthecoursetocart@79da8dc5]" started-at="2021-06-07T15:40:16 IST" name="addtocart" finished-at="2021-06-07T15:40:25 IST" duration-ms="8622" status="PASS">
+        <test-method signature="addtocart()[pri:0, instance:scripts.Addthecoursetocart@79da8dc5]" started-at="2021-06-13T09:20:38 IST" name="addtocart" finished-at="2021-06-13T09:21:01 IST" duration-ms="23040" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addtocart -->
-        <test-method is-config="true" signature="closeApp(org.testng.ITestResult)[pri:0, instance:scripts.Addthecoursetocart@79da8dc5]" started-at="2021-06-07T15:40:25 IST" name="closeApp" finished-at="2021-06-07T15:40:27 IST" duration-ms="1985" status="PASS">
+        <test-method is-config="true" signature="closeApp(org.testng.ITestResult)[pri:0, instance:scripts.Addthecoursetocart@79da8dc5]" started-at="2021-06-13T09:21:01 IST" name="closeApp" finished-at="2021-06-13T09:21:02 IST" duration-ms="1557" status="PASS">
           <params>
             <param index="0">
               <value>
